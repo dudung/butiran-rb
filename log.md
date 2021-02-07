@@ -119,5 +119,11 @@ Done installing documentation for butiran after 1 seconds
 You have successfully signed out from all sessions.
 ```
 
+### Uninstall gem
+```
+> gem uninstall butiran
+Successfully uninstalled butiran-0.0.0
+```
+
 ## References
 1. -, "Make you own gem", Guides, url <https://guides.rubygems.org/make-your-own-gem/> [20210207].
